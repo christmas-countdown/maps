@@ -1,5 +1,4 @@
 import { Router } from 'itty-router';
-import locations from './locations.json';
 
 const router = Router();
 
